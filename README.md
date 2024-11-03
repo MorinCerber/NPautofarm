@@ -59,7 +59,7 @@
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/NPautofarm/) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 git clone https://github.com/MorinCerber/NPautofarm.git
-cd notpixel
+cd NPautofarm
 ```
 
 Затем для автоматической установки введите:
